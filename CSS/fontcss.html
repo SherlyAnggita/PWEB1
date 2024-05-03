@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+font-family: Tahoma, Verdana, sans-serif;}
+terdapat tiga jenis font: Tahoma, Verdana, dan sans-serif. Font kedua dan ketiga adalah cadangan, jika font pertama tidak ditemukan
+
+p.normal {
+  font-style: normal;
+}
+
+p.italic {
+  font-style: italic;
+  font-size: 40px;
+}
+
+p.oblique {
+  font-style: oblique;
+   font-size: 1.875em; /* 30px/16=1.875em */
+}
+
+p.a {
+  font: 20px Arial, sans-serif;
+}
+
+p.b {
+  font: italic small-caps bold 12px/30px Georgia, serif;
+}
+</style>
+</head>
+<body>
+
+<h1>CSS Fallback Fonts</h1>
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+
+<h1>The font-style property</h1>
+<p class="normal">This is a paragraph in normal style.</p>
+<p class="italic">This is a paragraph in italic style.</p>
+<p class="oblique">This is a paragraph in oblique style.</p>
+
+<h1>The font Property</h1>
+<p class="a">This is a paragraph. The font size is set to 20 pixels, and the font family is Arial.</p>
+<p class="b">This is a paragraph. The font is set to italic, small-caps and bold, the font size is set to 12 pixels, the line height is set to 30 pixels, and the font family is Georgia.</p>
+
+</body>
+</html>

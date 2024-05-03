@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    /* tanda hash(#) digunakan untuk suatu elemen dengan id tertentu yang bersifat untik dalam suatu halaman */
+#para1 {
+  text-align: center;
+  color: red;
+}
+/* untuk elemen dengan class tertentu, ditulisakan dengan menggunakan titik(.) */
+.center {
+    text-align: center;
+    color: black;
+}
+/* digunakan untuk menampilkan warna merah hanya pada elemen p saja */
+p.center {
+  text-align: center;
+  color: red;
+}
+
+/* pengelompokan selection */
+
+h1, h2, p {
+  text-align: center;
+  color: red;
+}
+</style>
+</head>
+<body>
+<!-- elemen dengan id tertentu -->
+<p id="para1">Hello World!</p>
+<p>This paragraph is not affected by the style.</p>
+
+<!-- elemen dengan class tertentu -->
+<h1 class="center">Red and center-aligned heading</h1>
+<p class="center">Red and center-aligned paragraph.</p> 
+
+<!-- pengelompokan -->
+<h1>grouping selection</h1>
+<h2>Akan lebih baik jika mengelompokkan penyeleksi, untuk meminimalkan kode.</h2>
+<p>Untuk mengelompokkan pemilih, pisahkan setiap pemilih dengan koma.</p>
+
+</body>
+</html>
+
