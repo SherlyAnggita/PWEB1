@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+/* padding digunkana untuk mengetur jarak antara tepi cell dengan isi cell */
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+/* elemen text-align digunakan untuk membuat text pada hearder rata kiri */
+</style>
+</head>
+<body>
+
+<h2>Judul Tabel</h2>
+<p>menambahkan keterangan atau judul tabel dengan menggunakan caption tag.</p>
+
+<table style="width:100%">
+    <!-- menambahkan judul tabel -->
+  <caption>Monthly savings</caption>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$50</td>
+  </tr>
+</table>
+
+<!-- colspan tabel -->
+<p>digunakan untuk membuat cell menjangkau beberapa kolom</p>
+<table>
+    <tr>
+      <th colspan="2">Name</th>
+      <th>Age</th>
+    </tr>
+    <tr>
+      <td>Jill</td>
+      <td>Smith</td>
+      <td>43</td>
+    </tr>
+    <tr>
+      <td>Eve</td>
+      <td>Jackson</td>
+      <td>57</td>
+    </tr>
+  </table>
+
+  <!-- rowspan tabel -->
+  <p>digunakan untuk memmbuat cell menjangkau beberapa baris</p>
+  <table>
+    <tr>
+      <th>Name</th>
+      <td>Jill</td>
+    </tr>
+    <tr>
+      <th rowspan="2">Phone</th>
+      <td>555-1234</td>
+    </tr>
+    <tr>
+      <td>555-8745</td>
+  </tr>
+  </table>
+</body>
+</html>
+
