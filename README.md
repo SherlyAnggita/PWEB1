@@ -20,6 +20,7 @@ Table pada HTML terdiri dari sel sel di dalam baris dan kolom. Ini digunakan unt
 
 e.	List<br>
 List digunakan pengembang web untuk mengelompokan sekumpulan item terkait dalam daftar (list). List dalam HTML dipisahkan menjadi list unordered dan list orderedSelain itu list ordered memiliki atribut tipe yang menentukan penanda item daftar, seperti type=”A” yang akan menampilkan daftar item yang dimulai dari A, B, C, dst ataupun type=”I” yang menampilkan daftar item yang dimulai dari angka romawi.<br>
+![list](https://github.com/SherlyAnggita/PWEB1/assets/168384832/fdd8dd65-46a1-41a8-ab3b-8a68c3fd74a3) <br>
 
 f.	Attribute link dan img<br>
 Attribute bisa digunakan untuk menyisipkan link atau tautan dan juga menyisipkan gambar dengan menambahkan style. Tag a  mendefinisikan hyperlink sedangkan attribute href untuk menentukan URL halaman yang dituju. Untuk menambahkan atau menyisipkan gambar bisa menggunakan tag img dan attribute src untuk menentukan jalur ke gambar yang akan ditampilkan<br>
