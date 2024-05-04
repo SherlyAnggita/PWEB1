@@ -48,5 +48,6 @@ c.	Array<br>
 Array merupakan sebuah array dapat menampung banyak nilai dalam satu nama dan dapat diakses dengan mengacu pada nomor indeks. <br>
 d.	Alert<br>
 Metode alert( ) menampilkan kotak peringatan dengan pesan dan tombol OK. Metode ini digunakan Ketika ingin memberikan informasi sampai ke pengguna. Kotak alert ini mengalihkan focus dari halaman saat ini dan memaksa pengguna untuk membaca pesan, alert ini juga disebut sebagai kotak peringatan.<br>
+![alert](https://github.com/SherlyAnggita/PWEB1/assets/168384832/d67d8d72-c0a2-4a36-986a-d99fa9f89eec) <br>
 e.	Aritmatics<br>
 Operator aritmatics melakukan aritmatika pada suatu bilangan. Pada umumnya beroperasi pada dua bilangan, kedua  angka atau bilangan tersebut dapat berupa literal. Contoh penggunaan aritmatics pada javascript.<br>
