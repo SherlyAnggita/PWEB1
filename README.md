@@ -46,6 +46,7 @@ Events dalam HTML merupakan “hal” yang terjadi pada elemen HTML. Events bisa
 ![events](https://github.com/SherlyAnggita/PWEB1/assets/168384832/85218405-b7d5-4e95-8b01-84e875612160) <br>
 c.	Array<br>
 Array merupakan sebuah array dapat menampung banyak nilai dalam satu nama dan dapat diakses dengan mengacu pada nomor indeks. <br>
+![array](https://github.com/SherlyAnggita/PWEB1/assets/168384832/00e51876-0491-4937-b6b0-37db3cbf6cf0) <br>
 d.	Alert<br>
 Metode alert( ) menampilkan kotak peringatan dengan pesan dan tombol OK. Metode ini digunakan Ketika ingin memberikan informasi sampai ke pengguna. Kotak alert ini mengalihkan focus dari halaman saat ini dan memaksa pengguna untuk membaca pesan, alert ini juga disebut sebagai kotak peringatan.<br>
 ![alert](https://github.com/SherlyAnggita/PWEB1/assets/168384832/d67d8d72-c0a2-4a36-986a-d99fa9f89eec) <br>
