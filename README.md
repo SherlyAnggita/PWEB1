@@ -14,15 +14,12 @@ c.	Teks formatting<br>
 Teks formatting digunakan untuk menampilkan jenis  teks khusus, seperti yang akan saya tampilkan dibawah ini.<br>
 ![formating](https://github.com/SherlyAnggita/PWEB1/assets/168384832/6d47aa03-5d29-4c94-a7ba-8e46e21f90a6) <br>
 
-d.	Table <br>
-Table pada HTML terdiri dari sel sel di dalam baris dan kolom. Ini digunakan untuk memungkinkan pengembang web untuk mengatur data ke dalam baris dan kolom. Setiap sel table ditentukan oleh tag td,sesuatu yang ada diantaranya merupakan informasi sel table.sel table dapat berisi semua jenis elemen seperti teks, gambar, link atau table lain.. Contoh penggunaan table dalam HTML:<br>
 
-
-e.	List<br>
+d.	List<br>
 List digunakan pengembang web untuk mengelompokan sekumpulan item terkait dalam daftar (list). List dalam HTML dipisahkan menjadi list unordered dan list orderedSelain itu list ordered memiliki atribut tipe yang menentukan penanda item daftar, seperti type=”A” yang akan menampilkan daftar item yang dimulai dari A, B, C, dst ataupun type=”I” yang menampilkan daftar item yang dimulai dari angka romawi.<br>
 ![list](https://github.com/SherlyAnggita/PWEB1/assets/168384832/fdd8dd65-46a1-41a8-ab3b-8a68c3fd74a3) <br>
 
-f.	Attribute link dan img<br>
+e.	Attribute link dan img<br>
 Attribute bisa digunakan untuk menyisipkan link atau tautan dan juga menyisipkan gambar dengan menambahkan style. Tag a  mendefinisikan hyperlink sedangkan attribute href untuk menentukan URL halaman yang dituju. Untuk menambahkan atau menyisipkan gambar bisa menggunakan tag img dan attribute src untuk menentukan jalur ke gambar yang akan ditampilkan<br>
 ![attribute](https://github.com/SherlyAnggita/PWEB1/assets/168384832/28cda82c-a27c-412d-94f3-9a2a418e20dc) <br>
 
