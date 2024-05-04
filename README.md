@@ -30,6 +30,7 @@ Color pada CSS ditentukan dengan menggunakan nama warna yang telah ditentukan se
 ![color](https://github.com/SherlyAnggita/PWEB1/assets/168384832/5b2c29c5-5c7b-4b97-a543-9cb1d02149f5) <br>
 b.	Borders <br>
 Borders CSS digunakan untuk menentukan jenis batas yang akan ditampilkan. Selain itu kita juga bisa menentukan style, lebar serta warna batas elemen.<br>
+![border](https://github.com/SherlyAnggita/PWEB1/assets/168384832/2340a577-9166-4fce-934d-e2ead5c86b53) <br>
 c.	Table hover<br>
 Hover digunakan untuk  menyorot baris table dengan mengarahkan maouse kea rah baris table yang akan memberikan efek warna yang telah diberikan seperti contoh dibawah ini.<br>
 d.	Box model<br>
