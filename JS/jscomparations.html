@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>JavaScript Comparison</h1>
+<!-- berisi operator kondisional yang memberikan nilai pada variabel berdasarkan beberapa kondisi. -->
+
+<p>Input your age and click the button:</p>
+
+<input id="age" value="18" />
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  let age = document.getElementById("age").value;
+  let voteable = (age < 18) ? "Too young":"Old enough";
+  document.getElementById("demo").innerHTML = voteable + " to vote.";
+}
+// Jika variabel usia bernilai di bawah 18, maka nilai variabel yang dapat dipilih akan menjadi "Too young", sebaliknya nilai yang dapat dipilih akan menjadi "old enough".
+</script>
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+    <!-- Gunakan elsepernyataan tersebut untuk menentukan blok kode yang akan dieksekusi jika kondisinya salah -->
+<p>Jika jam kurang dari 18, buat ucapan "Selamat siang", jika tidak, "Selamat malam"</p>
+
+<p id="demo"></p>
+
+<script>
+const hour = new Date().getHours(); 
+let greeting;
+
+if (hour < 18) {
+  greeting = "Good day";
+} else {
+  greeting = "Good evening";
+}
+
+document.getElementById("demo").innerHTML = greeting;
+</script>
+
+</body>
+</html>
