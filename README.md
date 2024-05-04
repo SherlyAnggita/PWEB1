@@ -40,6 +40,7 @@ Box model merupakan sebuah kotak yang membungkus setiap elemen HTML yang terdiri
 Javascript merupakan bahasa pemrograman yang banyak digunakan dan merupakan bahasa yang palling popular di dunia. Javascript mengimplementasikan fitur serta fungsi paada halaman web yang membuat situs web atau aplikasi menajdi lebih interaktif dan dinamis. Dibawah ini saya akan menampilkan contoh penggunaan javascript.<br>
 a.	Function<br>
 Fungsi Javascrip didefinisikan dengan Function kata kunci, diikuti dengan nama dan tanda kurung. Nama fungsi dapat berisi huruf, angka, garis dan tanda dolar. Tanda kurung dapat menyertakan nama parameter yang dipisahkan dengan koma.<br>
+![function](https://github.com/SherlyAnggita/PWEB1/assets/168384832/1f0e1c3b-8729-4f82-b963-f8788730a066) <br>
 b.	Events <br>
 Events dalam HTML merupakan “hal” yang terjadi pada elemen HTML. Events bisa berupa sesuatu yang dilakukan browser atau sesuatu  yang dilakukan pengguna contohnya saat tombol HTML diklik, halaman web HTML telah selesai dimuat, Bidang masukan HTML telah diubah.<br>
 c.	Array<br>
