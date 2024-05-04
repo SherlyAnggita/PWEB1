@@ -52,3 +52,4 @@ Metode alert( ) menampilkan kotak peringatan dengan pesan dan tombol OK. Metode 
 ![alert](https://github.com/SherlyAnggita/PWEB1/assets/168384832/d67d8d72-c0a2-4a36-986a-d99fa9f89eec) <br>
 e.	Aritmatics<br>
 Operator aritmatics melakukan aritmatika pada suatu bilangan. Pada umumnya beroperasi pada dua bilangan, kedua  angka atau bilangan tersebut dapat berupa literal. Contoh penggunaan aritmatics pada javascript.<br>
+![aritmatik](https://github.com/SherlyAnggita/PWEB1/assets/168384832/a3c37c8d-193d-47ae-b0ad-64bcc2e450df) <br>
