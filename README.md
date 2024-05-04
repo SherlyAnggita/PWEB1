@@ -6,7 +6,7 @@ Praktikum Pemrograman WEB merupakan kegiatan pembuatan program berbasis web deng
 a.	Heading<br>
 Heading dalam HTML digunakan untuk menandai judul atau bagian penting dari halaman web. 
 h1 mendefinisikan judul yang paling penting dengan ukuran font yang lebih besar dari tag dibawahnya. h6 mendefinisikan judul yang paling tidak penting. Berikut adalah contoh tampilan halaman web menggunakan heading<br>
-![heading](https://github.com/SherlyAnggita/PWEB1/assets/168384832/1ab73156-04ab-4936-9a89-8acb29dc6f33)
+![heading](https://github.com/SherlyAnggita/PWEB1/assets/168384832/1ab73156-04ab-4936-9a89-8acb29dc6f33) <br>
 b.	Paragraph<br>
 Paragraph digunakan untuk menampilkan  teks atau konten yang berada dalam satu bagian yang terpisah. kemudian untuk memberikan jeda bisa menggunakan tag hr yang menampilkan garis horizontal. Selain itu bisa juga menggunankan tag br  untuk memberikan jeda tanpa garis horizontal berikut  adalah contoh tampilan halaman web menggunakan paragraph<br>
 c.	Teks formatting<br>
