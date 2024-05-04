@@ -27,6 +27,7 @@ Attribute bisa digunakan untuk menyisipkan link atau tautan dan juga menyisipkan
 CSS (Cascading Style Sheets) merupakan bahasa yang digunakan untuk menata gaya atau style dokumen HTML. Saya akan menampilkan contoh penggunaan CSS pada halaman web.<br>
 a.	Color CSS <br>
 Color pada CSS ditentukan dengan menggunakan nama warna yang telah ditentukan sebelumnya atau nilai RGB, HEX, HSL, RGBA.<br>
+![color](https://github.com/SherlyAnggita/PWEB1/assets/168384832/5b2c29c5-5c7b-4b97-a543-9cb1d02149f5) <br>
 b.	Borders <br>
 Borders CSS digunakan untuk menentukan jenis batas yang akan ditampilkan. Selain itu kita juga bisa menentukan style, lebar serta warna batas elemen.<br>
 c.	Table hover<br>
