@@ -33,6 +33,7 @@ Borders CSS digunakan untuk menentukan jenis batas yang akan ditampilkan. Selain
 ![border](https://github.com/SherlyAnggita/PWEB1/assets/168384832/2340a577-9166-4fce-934d-e2ead5c86b53) <br>
 c.	Table hover<br>
 Hover digunakan untuk  menyorot baris table dengan mengarahkan maouse kea rah baris table yang akan memberikan efek warna yang telah diberikan seperti contoh dibawah ini.<br>
+![hover](https://github.com/SherlyAnggita/PWEB1/assets/168384832/84db694b-88f3-4bf4-9290-6396e994bd76) <br>
 d.	Box model<br>
 Box model merupakan sebuah kotak yang membungkus setiap elemen HTML yang terdiri dari konten, padding, batas dan margin.<br>
 ![box model](https://github.com/SherlyAnggita/PWEB1/assets/168384832/a46ac06d-2a5b-4762-94e8-2e3a00f2985a) <br>
