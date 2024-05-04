@@ -35,6 +35,7 @@ c.	Table hover<br>
 Hover digunakan untuk  menyorot baris table dengan mengarahkan maouse kea rah baris table yang akan memberikan efek warna yang telah diberikan seperti contoh dibawah ini.<br>
 d.	Box model<br>
 Box model merupakan sebuah kotak yang membungkus setiap elemen HTML yang terdiri dari konten, padding, batas dan margin.<br>
+![box model](https://github.com/SherlyAnggita/PWEB1/assets/168384832/a46ac06d-2a5b-4762-94e8-2e3a00f2985a) <br>
 3.  Java Script<br>
 Javascript merupakan bahasa pemrograman yang banyak digunakan dan merupakan bahasa yang palling popular di dunia. Javascript mengimplementasikan fitur serta fungsi paada halaman web yang membuat situs web atau aplikasi menajdi lebih interaktif dan dinamis. Dibawah ini saya akan menampilkan contoh penggunaan javascript.<br>
 a.	Function<br>
