@@ -9,10 +9,10 @@ h1 mendefinisikan judul yang paling penting dengan ukuran font yang lebih besar 
 ![heading](https://github.com/SherlyAnggita/PWEB1/assets/168384832/1ab73156-04ab-4936-9a89-8acb29dc6f33) <br>
 b.	Paragraph<br>
 Paragraph digunakan untuk menampilkan  teks atau konten yang berada dalam satu bagian yang terpisah. kemudian untuk memberikan jeda bisa menggunakan tag hr yang menampilkan garis horizontal. Selain itu bisa juga menggunankan tag br  untuk memberikan jeda tanpa garis horizontal berikut  adalah contoh tampilan halaman web menggunakan paragraph<br>
-![paragraf](https://github.com/SherlyAnggita/PWEB1/assets/168384832/f2f7ab79-c295-4409-96b8-13c3a88aa25a)
-[](url) <br>
+![paragraf](https://github.com/SherlyAnggita/PWEB1/assets/168384832/f2f7ab79-c295-4409-96b8-13c3a88aa25a) <br>
 c.	Teks formatting<br>
 Teks formatting digunakan untuk menampilkan jenis  teks khusus, seperti yang akan saya tampilkan dibawah ini.<br>
+![formating](https://github.com/SherlyAnggita/PWEB1/assets/168384832/6d47aa03-5d29-4c94-a7ba-8e46e21f90a6) <br>
 
 d.	Table <br>
 Table pada HTML terdiri dari sel sel di dalam baris dan kolom. Ini digunakan untuk memungkinkan pengembang web untuk mengatur data ke dalam baris dan kolom. Setiap sel table ditentukan oleh tag td,sesuatu yang ada diantaranya merupakan informasi sel table.sel table dapat berisi semua jenis elemen seperti teks, gambar, link atau table lain.. Contoh penggunaan table dalam HTML:<br>
