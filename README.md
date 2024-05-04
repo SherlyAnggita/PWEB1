@@ -43,6 +43,7 @@ Fungsi Javascrip didefinisikan dengan Function kata kunci, diikuti dengan nama d
 ![function](https://github.com/SherlyAnggita/PWEB1/assets/168384832/1f0e1c3b-8729-4f82-b963-f8788730a066) <br>
 b.	Events <br>
 Events dalam HTML merupakan “hal” yang terjadi pada elemen HTML. Events bisa berupa sesuatu yang dilakukan browser atau sesuatu  yang dilakukan pengguna contohnya saat tombol HTML diklik, halaman web HTML telah selesai dimuat, Bidang masukan HTML telah diubah.<br>
+![events](https://github.com/SherlyAnggita/PWEB1/assets/168384832/85218405-b7d5-4e95-8b01-84e875612160) <br>
 c.	Array<br>
 Array merupakan sebuah array dapat menampung banyak nilai dalam satu nama dan dapat diakses dengan mengacu pada nomor indeks. <br>
 d.	Alert<br>
