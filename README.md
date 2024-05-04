@@ -12,15 +12,18 @@ Paragraph digunakan untuk menampilkan  teks atau konten yang berada dalam satu b
 ![paragraf](https://github.com/SherlyAnggita/PWEB1/assets/168384832/f2f7ab79-c295-4409-96b8-13c3a88aa25a)
 [](url) <br>
 c.	Teks formatting<br>
-Teks formatting digunakan untuk menampilkan jenis  teks khusus, seperti yang akan saya tampilkan dibawah ini.
+Teks formatting digunakan untuk menampilkan jenis  teks khusus, seperti yang akan saya tampilkan dibawah ini.<br>
+
 d.	Table <br>
 Table pada HTML terdiri dari sel sel di dalam baris dan kolom. Ini digunakan untuk memungkinkan pengembang web untuk mengatur data ke dalam baris dan kolom. Setiap sel table ditentukan oleh tag td,sesuatu yang ada diantaranya merupakan informasi sel table.sel table dapat berisi semua jenis elemen seperti teks, gambar, link atau table lain.. Contoh penggunaan table dalam HTML:<br>
 
 
 e.	List<br>
 List digunakan pengembang web untuk mengelompokan sekumpulan item terkait dalam daftar (list). List dalam HTML dipisahkan menjadi list unordered dan list orderedSelain itu list ordered memiliki atribut tipe yang menentukan penanda item daftar, seperti type=”A” yang akan menampilkan daftar item yang dimulai dari A, B, C, dst ataupun type=”I” yang menampilkan daftar item yang dimulai dari angka romawi.<br>
+
 f.	Attribute link dan img<br>
 Attribute bisa digunakan untuk menyisipkan link atau tautan dan juga menyisipkan gambar dengan menambahkan style. Tag a  mendefinisikan hyperlink sedangkan attribute href untuk menentukan URL halaman yang dituju. Untuk menambahkan atau menyisipkan gambar bisa menggunakan tag img dan attribute src untuk menentukan jalur ke gambar yang akan ditampilkan<br>
+![attribute](https://github.com/SherlyAnggita/PWEB1/assets/168384832/28cda82c-a27c-412d-94f3-9a2a418e20dc) <br>
 
 2.  CSS<br>
 CSS (Cascading Style Sheets) merupakan bahasa yang digunakan untuk menata gaya atau style dokumen HTML. Saya akan menampilkan contoh penggunaan CSS pada halaman web.<br>
